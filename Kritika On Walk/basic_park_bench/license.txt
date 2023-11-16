@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basic Park Bench
+* source:	https://sketchfab.com/3d-models/basic-park-bench-a8a26f771d5845f092e71371a6e30566
+* author:	elouisetrewartha (https://sketchfab.com/etrewartha)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basic Park Bench" (https://sketchfab.com/3d-models/basic-park-bench-a8a26f771d5845f092e71371a6e30566) by elouisetrewartha (https://sketchfab.com/etrewartha) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
